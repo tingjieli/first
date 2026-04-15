@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello Worldddd'
+                echo 'Hello Worldddddddddddd'
                 sh 'git clone git@github.com:tingjieli/first.git'
             }
         }
